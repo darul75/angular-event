@@ -1,0 +1,33 @@
+{
+  "name": "angular-snow",
+  "description": "AngularJS directive snow event.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Julien Valéry",
+    "email": "darul75@gmail.com"
+  },
+  "filename": "./src/angular-snow.js",
+  "homepage": "https://github.com/darul75/angular-snow",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darul75/angular-snow.git"
+  },
+  "keywords": [
+    "angular",
+    "snow",
+    "event",
+    "ui"
+  ],  
+  "bugs": {
+    "url": "https://github.com/darul75/angular-snow/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {    
+    "grunt-contrib-copy": "~0.4.1",    
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-contrib-cssmin": "~0.6.0"    
+  }
+}
