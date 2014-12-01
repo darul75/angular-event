@@ -1,25 +1,24 @@
 {
-  "name": "angular-snow",
-  "description": "AngularJS directive snow event.",
+  "name": "angular-event",
+  "description": "AngularJS directive events directive effects.",
   "version": "0.0.1",
   "author": {
     "name": "Julien Valéry",
     "email": "darul75@gmail.com"
   },
   "filename": "./src/angular-snow.js",
-  "homepage": "https://github.com/darul75/angular-snow",
+  "homepage": "https://github.com/darul75/angular-event",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darul75/angular-snow.git"
+    "url": "https://github.com/darul75/angular-event.git"
   },
   "keywords": [
-    "angular",
-    "snow",
+    "angular",    
     "event",
     "ui"
   ],  
   "bugs": {
-    "url": "https://github.com/darul75/angular-snow/issues"
+    "url": "https://github.com/darul75/angular-event/issues"
   },
   "dependencies": {
   },
