@@ -16,7 +16,10 @@ angular.module('angularEvent', [])
                           window.webkitRequestAnimationFrame ||
                           window.msRequestAnimationFrame;
       var canvas = document.createElement("canvas");
-      element.after(canvas);
+      
+
+      var wrapper = element.wrap("<div style='position: relative;'></div>");
+      wrapper.after(canvas);
 
       var windowSize = function() {
         WIDTH = element[0].offsetWidth;
